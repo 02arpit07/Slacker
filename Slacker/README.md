@@ -1,4 +1,5 @@
 # music-website -Personal Project
+Made by Gandotrajiii
 
 🎵 音乐网站(HTML + CSS + jQuery)
 
