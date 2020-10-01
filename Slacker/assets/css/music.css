@@ -6,12 +6,12 @@
     overflow: hidden;
     margin-top: 30px;
     height: 66px;
-    border-radius: 8px;
-    border: 1px solid rgba(0, 0, 0, .14);
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, .14);
 }
 
 .box {
-    margin-top: 24px;
+    margin-top: 30px;
 }
 
 #music-player {
